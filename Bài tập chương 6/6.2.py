@@ -1,0 +1,10 @@
+x=10
+y=5
+c=x+y
+d=x-y
+e=x*y
+f=x/y
+print("tổng của", x,"+", y, "=", c)
+print("hiệu của", x,"-", y, "=", d)
+print("tích của", x,"*", y, "=", e)
+print("thương của", x,"/", y, "=", f)
